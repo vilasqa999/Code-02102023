@@ -1,0 +1,11 @@
+
+create TABLE Student(Studentid int(5), sanme varchar(100), marks int(5));
+create TABLE Employee(Empid int(5), ename varchar(100), salary int(5));
+
+insert into Student values(1, "Vilas", 85);
+
+insert into Student values(1, "Amit", 85);
+insert into Student values(1, "Amar", 88);
+insert into Student values(1, "Vikas", 90);
+insert into Student values(1, "Ashok", 67);
+
